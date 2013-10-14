@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://abgabe.github.io
+title: Mein Blog
+subtitle: Gedanken und so.
+author: Sören Buchholz
 simple_search: http://google.com/search
 description:
 
@@ -70,7 +70,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
@@ -82,7 +82,7 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
+pinboard_user: Abgabe
 pinboard_count: 3
 
 # Delicious
@@ -90,11 +90,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: Abgabe
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
-
+google_analytics_tracking_id: UA-44831406-1
+		
 # Facebook Like
 facebook_like: false
